@@ -1,0 +1,13 @@
+017bcf74c2261beb1ef666d58f243906 *DESCRIPTION
+bcec839445254c781a77389c74a76b94 *NAMESPACE
+fd26efeb0b00e7b5c8dcbcf4c72b99b2 *R/rpart.lists.R
+62a794bfaaa034e07b7c4fdae7e17f91 *R/rpart.rules.R
+827554ffec9a6d312d22012dac38ea86 *R/rpart.rules.push.R
+275299d83eadda3273c5d3fd045c04f1 *R/rpart.rules.table.R
+7d55342ececffe2e21566e269d4bb429 *R/rpart.subrules.table.R
+3812d49f05eb1324d15b14b5cda86004 *README.md
+f819cca6198d7c955cfe41e9409a96fb *man/rpart.lists.Rd
+f1b126b077d903746bdb52ab4e5fd7c6 *man/rpart.rules.Rd
+3c86bf1de4f5da3cf61d7955c05bd6c6 *man/rpart.rules.push.Rd
+e220410ae718b26d6b8f36af43028255 *man/rpart.rules.table.Rd
+e9a8e118843b1abd373b36b2fec45fc1 *man/rpart.subrules.table.Rd
